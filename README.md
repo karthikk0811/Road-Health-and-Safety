@@ -27,29 +27,39 @@ Additional Libraries: (List any additional libraries or frameworks used)
 **Getting Started**
 
 1.Installation:
+
 -Clone this repository.
+
 -Install dependencies using npm install.
 
 2.Configuration:
+
 -Configure the backend settings in backend/config/config.js.
+
 -(Any additional configuration steps if necessary)
 
 3.Run the Application:
+
 -Start the Node.js server: npm start (or the command you use).
+
 -Start the React.js frontend: npm start (or the command you use).
 
 4.Access the Application:
+
 -Open your browser and go to http://localhost:3000 (or the specified port).
 
 **Usage**
 
 1.Upload Images or Use Camera Feed:
+
 -Upload road images or use the integrated camera feed for real-time analysis.
 
 2.View Analysis Reports:
+
 -Access detailed analysis reports on road health conditions, including detected cracks and potholes.
 
 3.Monitor Real-time Updates:
+
 -Monitor road conditions in real-time for proactive maintenance.
 
 **Contribution Guidelines**
