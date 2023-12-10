@@ -1,9 +1,11 @@
 ##**Road Health and Safety Project**
 
 __Overview__
+
 The Road Health and Safety project is a comprehensive solution for automatically detecting and analyzing road conditions, including cracks, potholes, and other damage. This project utilizes Node.js for backend server implementation, YOLOv5 for object detection, and React.js for the frontend user interface.
 
 **Features**
+
 -Crack Detection: The system employs YOLOv5 to detect and highlight cracks on the road surface accurately.
 
 -Pothole Detection: Utilizing advanced computer vision techniques, the system identifies and marks potholes, contributing to proactive road maintenance.
@@ -15,6 +17,7 @@ The Road Health and Safety project is a comprehensive solution for automatically
 -User-Friendly Interface: The React.js frontend offers an intuitive and user-friendly interface for interacting with the system and viewing road health reports.
 
 **Technologies Used**
+
 Backend: Node.js
 Object Detection: YOLOv5
 Frontend: React.js
@@ -22,6 +25,7 @@ Database: MongoDB (or specify your chosen database)
 Additional Libraries: (List any additional libraries or frameworks used)
 
 **Getting Started**
+
 1.Installation:
 -Clone this repository.
 -Install dependencies using npm install.
@@ -49,9 +53,11 @@ Additional Libraries: (List any additional libraries or frameworks used)
 -Monitor road conditions in real-time for proactive maintenance.
 
 **Contribution Guidelines**
+
 Contributions are welcome! Please follow our contribution guidelines before submitting pull requests.
 
 **Acknowledgments**
+
 Thanks to the YOLOv5 community for the powerful object detection capabilities.
 
 create env file
