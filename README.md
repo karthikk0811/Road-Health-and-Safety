@@ -1,4 +1,4 @@
-##**Road Health and Safety Project**
+**Road Health and Safety Project**
 
 __Overview__
 
